@@ -1,0 +1,6 @@
+clean
+throw
+make
+clean
+clear
+nice
