@@ -4,3 +4,4 @@ make
 clean
 clear
 nice
+Check things out
