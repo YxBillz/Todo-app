@@ -1,7 +1,8 @@
-clean
-throw
-make
-clean
+clean the roomthrow
+make a wishclean
 clear
 nice
 Check things out
+Try out
+Water
+Water the plant
